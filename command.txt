@@ -1,0 +1,20 @@
+ls
+mkdir
+cd
+git init
+ls -a
+ls .git
+touch<filename>
+git status
+git add
+git commit
+vi<filename>
+cat<filename>
+git restore
+git log
+git rm -rf<filename>
+git reset(commit adress)
+git reset
+git stash
+git stash clear
+
