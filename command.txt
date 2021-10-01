@@ -17,4 +17,6 @@ git reset(commit adress)
 git reset
 git stash
 git stash clear
-
+git remote add origin <url>
+git remote -v
+git push origin master
